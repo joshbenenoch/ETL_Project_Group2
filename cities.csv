@@ -1,52 +1,52 @@
-City,State
-Anaheim,CA
-Arlington,TX
-Atlanta,GA
-Baltimore,MD
-Boston,MA
-Brooklyn,NY
-Buffalo,NY
-Charlotte,NC
-Chicago,IL
-Cincinnati,OH
-Cleveland,OH
-Columbus,OH
-Dallas,TX
-Denver,CO
-Detroit,MI
-Fort Lauderdale,FL
-Green Bay,WI
-Houston,TX
-Indianapolis,IN
-Jacksonville,FL
-Kansas City,MO
-Las Vegas,NV
-Los Angeles,CA
-Memphis,TN
-Miami,FL
-Milwaukee,WI
-Minneapolis,MN
-Nashville,TN
-New Orleans,LA
-New York,NY
-Newark,NJ
-Oakland,CA
-Oklahoma City,OK
-Orlando,FL
-Philadelphia,PA
-Phoenix,AZ
-Pittsburgh,PA
-Portland,OR
-Raleigh,NC
-Sacramento,CA
-Salt Lake City,UT
-San Antonio,TX
-San Diego,CA
-San Francisco,CA
-San Jose,CA
-Seattle,WA
-St. Paul,MN
-St. Louis,MO
-St. Petersburg,FL
-Tampa,FL
-Washington,DC
+Metro,City,State
+New York City,New York,NY
+New York City,Brooklyn,NY
+New York City,Newark,NJ
+Los Angeles,Los Angeles,CA
+Los Angeles,Anaheim,CA
+San Francisco Bay Area,San Francisco,CA
+San Francisco Bay Area,Oakland,CA
+San Francisco Bay Area,San Jose,CA
+Chicago,Chicago,IL
+Dallas–Fort Worth,Dallas,TX
+Dallas–Fort Worth,Arlington,TX
+Washington, D.C.,Washington,DC
+Philadelphia,Philadelphia,PA
+Boston,Boston,MA
+Minneapolis–St. Paul,Minneapolis,MN
+Minneapolis–St. Paul,St. Paul,MN
+Denver,Denver,CO
+Miami–Fort Lauderdale,Miami,FL
+Miami–Fort Lauderdale,Fort Lauderdale,FL
+Phoenix,Phoenix,AZ
+Detroit,Detroit,MI
+Houston,Houston,TX
+Atlanta,Atlanta,GA
+Tampa Bay Area,Tampa,FL
+Tampa Bay Area,St. Petersburg,FL
+Pittsburgh,Pittsburgh,PA
+Cleveland,Cleveland,OH
+Seattle,Seattle,WA
+Cincinnati,Cincinnati,OH
+Kansas City,Kansas City,MO
+St. Louis,St. Louis,MO
+Baltimore,Baltimore,MD
+Charlotte,Charlotte,NC
+Indianapolis,Indianapolis,IN
+Nashville,Nashville,TN
+Milwaukee,Milwaukee,WI
+New Orleans,New Orleans,LA
+Buffalo,Buffalo,NY
+Orlando,Orlando,FL
+Portland,Portland,OR
+Columbus,Columbus,OH
+Salt Lake City,Salt Lake City,UT
+San Diego,San Diego,CA
+San Antonio,San Antonio,TX
+Sacramento,Sacramento,CA
+Las Vegas,Las Vegas,NV
+Jacksonville,Jacksonville,FL
+Oklahoma City,Oklahoma City,OK
+Memphis,Memphis,TN
+Raleigh,Raleigh,NC
+Green Bay,Green Bay,WI
