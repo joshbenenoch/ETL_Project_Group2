@@ -1,21 +1,21 @@
-"City","Series"
-"Atlanta","ATXRSA"
-"Boston","BOXRSA"
-"Charlotte","CRXRSA"
-"Chicago","CHXRSA"
-"Cleveland","CEXRSA"
-"Dallas","DAXRSA"
-"Denver","DNXRSA"
-"Detroit","DEXRSA"
-"Las Vegas","LVXRSA"
-"Los Angeles","LXXRSA"
-"Miami","MIXRSA"
-"Minneapolis","MNXRSA"
-"New York","NYXRSA"
-"Phoenix","PHXRSA"
-"Portland","POXRSA"
-"San Diego","SDXRSA"
-"San Francisco","SFXRSA"
-"Seattle","SEXRSA"
-"Tampa","TPXRSA"
-"Washington","WDXRSA"
+Metro,City,State,Series
+Atlanta,Atlanta,GA,ATXRSA
+Boston,Boston,MA,BOXRSA
+Charlotte,Charlotte,NC,CRXRSA
+Chicago,Chicago,IL,CHXRSA
+Cleveland,Cleveland,OH,CEXRSA
+Dallas-Fort Worth,Dallas,TX,DAXRSA
+Denver,Denver,CO,DNXRSA
+Detroit,Detroit,MI,DEXRSA
+Las Vegas,Las Vegas,NV,LVXRSA
+Los Angeles,Los Angeles,CA,LXXRSA
+Miami-Fort Lauderdale,Miami,FL,MIXRSA
+Minneapolis-St. Paul,Minneapolis,MN,MNXRSA
+New York City,New York,NY,NYXRSA
+Phoenix,Phoenix,AZ,PHXRSA
+Portland,Portland,OR,POXRSA
+San Diego,San Diego,CA,SDXRSA
+San Francisco Bay Area,San Francisco,CA,SFXRSA
+Seattle,Seattle,WA,SEXRSA
+Tampa Bay Area,Tampa,FL,TPXRSA
+Washington,Washington,DC,WDXRSA
