@@ -1,52 +1,52 @@
-Metro,City,State
-New York City,New York,NY
-New York City,Brooklyn,NY
-New York City,Newark,NJ
-Los Angeles,Los Angeles,CA
-Los Angeles,Anaheim,CA
-San Francisco Bay Area,San Francisco,CA
-San Francisco Bay Area,Oakland,CA
-San Francisco Bay Area,San Jose,CA
-Chicago,Chicago,IL
-Dallas-Fort Worth,Dallas,TX
-Dallas-Fort Worth,Arlington,TX
-Washington,Washington,DC
-Philadelphia,Philadelphia,PA
-Boston,Boston,MA
-Minneapolis-St. Paul,Minneapolis,MN
-Minneapolis-St. Paul,St. Paul,MN
-Denver,Denver,CO
-Miami-Fort Lauderdale,Miami,FL
-Miami-Fort Lauderdale,Fort Lauderdale,FL
-Phoenix,Phoenix,AZ
-Detroit,Detroit,MI
-Houston,Houston,TX
-Atlanta,Atlanta,GA
-Tampa Bay Area,Tampa,FL
-Tampa Bay Area,St. Petersburg,FL
-Pittsburgh,Pittsburgh,PA
-Cleveland,Cleveland,OH
-Seattle,Seattle,WA
-Cincinnati,Cincinnati,OH
-Kansas City,Kansas City,MO
-St. Louis,St. Louis,MO
-Baltimore,Baltimore,MD
-Charlotte,Charlotte,NC
-Indianapolis,Indianapolis,IN
-Nashville,Nashville,TN
-Milwaukee,Milwaukee,WI
-New Orleans,New Orleans,LA
-Buffalo,Buffalo,NY
-Orlando,Orlando,FL
-Portland,Portland,OR
-Columbus,Columbus,OH
-Salt Lake City,Salt Lake City,UT
-San Diego,San Diego,CA
-San Antonio,San Antonio,TX
-Sacramento,Sacramento,CA
-Las Vegas,Las Vegas,NV
-Jacksonville,Jacksonville,FL
-Oklahoma City,Oklahoma City,OK
-Memphis,Memphis,TN
-Raleigh,Raleigh,NC
-Green Bay,Green Bay,WI
+BEAMetro,WikipediaMetro,City,State
+"New York-Newark-Jersey City, NY-NJ-PA",New York City,New York,NY
+"New York-Newark-Jersey City, NY-NJ-PA",New York City,Brooklyn,NY
+"New York-Newark-Jersey City, NY-NJ-PA",New York City,Newark,NJ
+"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,Los Angeles,CA
+"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,Anaheim,CA
+"San Francisco-Oakland-Hayward, CA",San Francisco Bay Area,San Francisco,CA
+"San Francisco-Oakland-Hayward, CA",San Francisco Bay Area,Oakland,CA
+"San Jose-Sunnyvale-Santa Clara, CA",San Francisco Bay Area,San Jose,CA
+"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,Chicago,IL
+"Dallas-Fort Worth-Arlington, TX",Dallas-Fort Worth,Dallas,TX
+"Dallas-Fort Worth-Arlington, TX",Dallas-Fort Worth,Arlington,TX
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",Washington,Washington,DC
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,Philadelphia,PA
+"Boston-Cambridge-Newton, MA-NH",Boston,Boston,MA
+"Minneapolis-St. Paul-Bloomington, MN-WI",Minneapolis-St. Paul,Minneapolis,MN
+"Minneapolis-St. Paul-Bloomington, MN-WI",Minneapolis-St. Paul,St. Paul,MN
+"Denver-Aurora-Lakewood, CO",Denver,Denver,CO
+"Miami-Fort Lauderdale-West Palm Beach, FL",Miami-Fort Lauderdale,Miami,FL
+"Miami-Fort Lauderdale-West Palm Beach, FL",Miami-Fort Lauderdale,Fort Lauderdale,FL
+"Phoenix-Mesa-Scottsdale, AZ",Phoenix,Phoenix,AZ
+"Detroit-Warren-Dearborn, MI",Detroit,Detroit,MI
+"Houston-The Woodlands-Sugar Land, TX",Houston,Houston,TX
+"Atlanta-Sandy Springs-Roswell, GA",Atlanta,Atlanta,GA
+"Tampa-St. Petersburg-Clearwater, FL",Tampa Bay Area,Tampa,FL
+"Tampa-St. Petersburg-Clearwater, FL",Tampa Bay Area,St. Petersburg,FL
+"Pittsburgh, PA",Pittsburgh,Pittsburgh,PA
+"Cleveland-Elyria, OH",Cleveland,Cleveland,OH
+"Seattle-Tacoma-Bellevue, WA",Seattle,Seattle,WA
+"Cincinnati, OH-KY-IN",Cincinnati,Cincinnati,OH
+"Kansas City, MO-KS",Kansas City,Kansas City,MO
+"St. Louis, MO-IL",St. Louis,St. Louis,MO
+"Baltimore-Columbia-Towson, MD",Baltimore,Baltimore,MD
+"Charlotte-Concord-Gastonia, NC-SC",Charlotte,Charlotte,NC
+"Indianapolis-Carmel-Anderson, IN",Indianapolis,Indianapolis,IN
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Nashville,Nashville,TN
+"Milwaukee-Waukesha-West Allis, WI",Milwaukee,Milwaukee,WI
+"New Orleans-Metairie, LA",New Orleans,New Orleans,LA
+"Buffalo-Cheektowaga-Niagara Falls, NY",Buffalo,Buffalo,NY
+"Orlando-Kissimmee-Sanford, FL",Orlando,Orlando,FL
+"Portland-Vancouver-Hillsboro, OR-WA",Portland,Portland,OR
+"Columbus, OH",Columbus,Columbus,OH
+"Salt Lake City, UT",Salt Lake City,Salt Lake City,UT
+"San Diego-Carlsbad, CA",San Diego,San Diego,CA
+"San Antonio-New Braunfels, TX",San Antonio,San Antonio,TX
+"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,Sacramento,CA
+"Las Vegas-Henderson-Paradise, NV",Las Vegas,Las Vegas,NV
+"Jacksonville, FL",Jacksonville,Jacksonville,FL
+"Oklahoma City, OK",Oklahoma City,Oklahoma City,OK
+"Memphis, TN-MS-AR",Memphis,Memphis,TN
+"Raleigh, NC",Raleigh,Raleigh,NC
+"Green Bay, WI",Green Bay,Green Bay,WI
