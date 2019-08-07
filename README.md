@@ -23,7 +23,7 @@ Our data sources include but are not limited to:
 
 ## PROJECT REPORT:
 
-    Our project report will include:
-        - our raw data files from its various sources
-        - our transformation jupyter notebook .ipynb files with comments explaining transformation process
-        - our final PostgreSQL table(s) in schema.sql form
+Our project report will include:
+   - our raw data files from its various sources
+   - our transformation jupyter notebook .ipynb files with comments explaining transformation process
+   - our final PostgreSQL table(s) in schema.sql form
