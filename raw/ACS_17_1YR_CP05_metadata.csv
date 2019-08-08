@@ -1,0 +1,804 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC03,2017 Estimate; SEX AND AGE - Total population
+HC02_VC03,2016 Estimate; SEX AND AGE - Total population
+HC03_VC03,2017 - 2016 Statistical Significance; SEX AND AGE - Total population
+HC04_VC03,2015 Estimate; SEX AND AGE - Total population
+HC05_VC03,2017 - 2015 Statistical Significance; SEX AND AGE - Total population
+HC06_VC03,2014 Estimate; SEX AND AGE - Total population
+HC07_VC03,2017 - 2014 Statistical Significance; SEX AND AGE - Total population
+HC08_VC03,2013 Estimate; SEX AND AGE - Total population
+HC09_VC03,2017 - 2013 Statistical Significance; SEX AND AGE - Total population
+HC01_VC04,2017 Estimate; SEX AND AGE - Total population - Male
+HC02_VC04,2016 Estimate; SEX AND AGE - Total population - Male
+HC03_VC04,2017 - 2016 Statistical Significance; SEX AND AGE - Total population - Male
+HC04_VC04,2015 Estimate; SEX AND AGE - Total population - Male
+HC05_VC04,2017 - 2015 Statistical Significance; SEX AND AGE - Total population - Male
+HC06_VC04,2014 Estimate; SEX AND AGE - Total population - Male
+HC07_VC04,2017 - 2014 Statistical Significance; SEX AND AGE - Total population - Male
+HC08_VC04,2013 Estimate; SEX AND AGE - Total population - Male
+HC09_VC04,2017 - 2013 Statistical Significance; SEX AND AGE - Total population - Male
+HC01_VC05,2017 Estimate; SEX AND AGE - Total population - Female
+HC02_VC05,2016 Estimate; SEX AND AGE - Total population - Female
+HC03_VC05,2017 - 2016 Statistical Significance; SEX AND AGE - Total population - Female
+HC04_VC05,2015 Estimate; SEX AND AGE - Total population - Female
+HC05_VC05,2017 - 2015 Statistical Significance; SEX AND AGE - Total population - Female
+HC06_VC05,2014 Estimate; SEX AND AGE - Total population - Female
+HC07_VC05,2017 - 2014 Statistical Significance; SEX AND AGE - Total population - Female
+HC08_VC05,2013 Estimate; SEX AND AGE - Total population - Female
+HC09_VC05,2017 - 2013 Statistical Significance; SEX AND AGE - Total population - Female
+HC01_VC06,2017 Estimate; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC02_VC06,2016 Estimate; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC03_VC06,2017 - 2016 Statistical Significance; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC04_VC06,2015 Estimate; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC05_VC06,2017 - 2015 Statistical Significance; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC06_VC06,2014 Estimate; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC07_VC06,2017 - 2014 Statistical Significance; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC08_VC06,2013 Estimate; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC09_VC06,2017 - 2013 Statistical Significance; SEX AND AGE - Total population - Sex ratio (males per 100 females)
+HC01_VC09,2017 Estimate; SEX AND AGE - Under 5 years
+HC02_VC09,2016 Estimate; SEX AND AGE - Under 5 years
+HC03_VC09,2017 - 2016 Statistical Significance; SEX AND AGE - Under 5 years
+HC04_VC09,2015 Estimate; SEX AND AGE - Under 5 years
+HC05_VC09,2017 - 2015 Statistical Significance; SEX AND AGE - Under 5 years
+HC06_VC09,2014 Estimate; SEX AND AGE - Under 5 years
+HC07_VC09,2017 - 2014 Statistical Significance; SEX AND AGE - Under 5 years
+HC08_VC09,2013 Estimate; SEX AND AGE - Under 5 years
+HC09_VC09,2017 - 2013 Statistical Significance; SEX AND AGE - Under 5 years
+HC01_VC10,2017 Estimate; SEX AND AGE - 5 to 9 years
+HC02_VC10,2016 Estimate; SEX AND AGE - 5 to 9 years
+HC03_VC10,2017 - 2016 Statistical Significance; SEX AND AGE - 5 to 9 years
+HC04_VC10,2015 Estimate; SEX AND AGE - 5 to 9 years
+HC05_VC10,2017 - 2015 Statistical Significance; SEX AND AGE - 5 to 9 years
+HC06_VC10,2014 Estimate; SEX AND AGE - 5 to 9 years
+HC07_VC10,2017 - 2014 Statistical Significance; SEX AND AGE - 5 to 9 years
+HC08_VC10,2013 Estimate; SEX AND AGE - 5 to 9 years
+HC09_VC10,2017 - 2013 Statistical Significance; SEX AND AGE - 5 to 9 years
+HC01_VC11,2017 Estimate; SEX AND AGE - 10 to 14 years
+HC02_VC11,2016 Estimate; SEX AND AGE - 10 to 14 years
+HC03_VC11,2017 - 2016 Statistical Significance; SEX AND AGE - 10 to 14 years
+HC04_VC11,2015 Estimate; SEX AND AGE - 10 to 14 years
+HC05_VC11,2017 - 2015 Statistical Significance; SEX AND AGE - 10 to 14 years
+HC06_VC11,2014 Estimate; SEX AND AGE - 10 to 14 years
+HC07_VC11,2017 - 2014 Statistical Significance; SEX AND AGE - 10 to 14 years
+HC08_VC11,2013 Estimate; SEX AND AGE - 10 to 14 years
+HC09_VC11,2017 - 2013 Statistical Significance; SEX AND AGE - 10 to 14 years
+HC01_VC12,2017 Estimate; SEX AND AGE - 15 to 19 years
+HC02_VC12,2016 Estimate; SEX AND AGE - 15 to 19 years
+HC03_VC12,2017 - 2016 Statistical Significance; SEX AND AGE - 15 to 19 years
+HC04_VC12,2015 Estimate; SEX AND AGE - 15 to 19 years
+HC05_VC12,2017 - 2015 Statistical Significance; SEX AND AGE - 15 to 19 years
+HC06_VC12,2014 Estimate; SEX AND AGE - 15 to 19 years
+HC07_VC12,2017 - 2014 Statistical Significance; SEX AND AGE - 15 to 19 years
+HC08_VC12,2013 Estimate; SEX AND AGE - 15 to 19 years
+HC09_VC12,2017 - 2013 Statistical Significance; SEX AND AGE - 15 to 19 years
+HC01_VC13,2017 Estimate; SEX AND AGE - 20 to 24 years
+HC02_VC13,2016 Estimate; SEX AND AGE - 20 to 24 years
+HC03_VC13,2017 - 2016 Statistical Significance; SEX AND AGE - 20 to 24 years
+HC04_VC13,2015 Estimate; SEX AND AGE - 20 to 24 years
+HC05_VC13,2017 - 2015 Statistical Significance; SEX AND AGE - 20 to 24 years
+HC06_VC13,2014 Estimate; SEX AND AGE - 20 to 24 years
+HC07_VC13,2017 - 2014 Statistical Significance; SEX AND AGE - 20 to 24 years
+HC08_VC13,2013 Estimate; SEX AND AGE - 20 to 24 years
+HC09_VC13,2017 - 2013 Statistical Significance; SEX AND AGE - 20 to 24 years
+HC01_VC14,2017 Estimate; SEX AND AGE - 25 to 34 years
+HC02_VC14,2016 Estimate; SEX AND AGE - 25 to 34 years
+HC03_VC14,2017 - 2016 Statistical Significance; SEX AND AGE - 25 to 34 years
+HC04_VC14,2015 Estimate; SEX AND AGE - 25 to 34 years
+HC05_VC14,2017 - 2015 Statistical Significance; SEX AND AGE - 25 to 34 years
+HC06_VC14,2014 Estimate; SEX AND AGE - 25 to 34 years
+HC07_VC14,2017 - 2014 Statistical Significance; SEX AND AGE - 25 to 34 years
+HC08_VC14,2013 Estimate; SEX AND AGE - 25 to 34 years
+HC09_VC14,2017 - 2013 Statistical Significance; SEX AND AGE - 25 to 34 years
+HC01_VC15,2017 Estimate; SEX AND AGE - 35 to 44 years
+HC02_VC15,2016 Estimate; SEX AND AGE - 35 to 44 years
+HC03_VC15,2017 - 2016 Statistical Significance; SEX AND AGE - 35 to 44 years
+HC04_VC15,2015 Estimate; SEX AND AGE - 35 to 44 years
+HC05_VC15,2017 - 2015 Statistical Significance; SEX AND AGE - 35 to 44 years
+HC06_VC15,2014 Estimate; SEX AND AGE - 35 to 44 years
+HC07_VC15,2017 - 2014 Statistical Significance; SEX AND AGE - 35 to 44 years
+HC08_VC15,2013 Estimate; SEX AND AGE - 35 to 44 years
+HC09_VC15,2017 - 2013 Statistical Significance; SEX AND AGE - 35 to 44 years
+HC01_VC16,2017 Estimate; SEX AND AGE - 45 to 54 years
+HC02_VC16,2016 Estimate; SEX AND AGE - 45 to 54 years
+HC03_VC16,2017 - 2016 Statistical Significance; SEX AND AGE - 45 to 54 years
+HC04_VC16,2015 Estimate; SEX AND AGE - 45 to 54 years
+HC05_VC16,2017 - 2015 Statistical Significance; SEX AND AGE - 45 to 54 years
+HC06_VC16,2014 Estimate; SEX AND AGE - 45 to 54 years
+HC07_VC16,2017 - 2014 Statistical Significance; SEX AND AGE - 45 to 54 years
+HC08_VC16,2013 Estimate; SEX AND AGE - 45 to 54 years
+HC09_VC16,2017 - 2013 Statistical Significance; SEX AND AGE - 45 to 54 years
+HC01_VC17,2017 Estimate; SEX AND AGE - 55 to 59 years
+HC02_VC17,2016 Estimate; SEX AND AGE - 55 to 59 years
+HC03_VC17,2017 - 2016 Statistical Significance; SEX AND AGE - 55 to 59 years
+HC04_VC17,2015 Estimate; SEX AND AGE - 55 to 59 years
+HC05_VC17,2017 - 2015 Statistical Significance; SEX AND AGE - 55 to 59 years
+HC06_VC17,2014 Estimate; SEX AND AGE - 55 to 59 years
+HC07_VC17,2017 - 2014 Statistical Significance; SEX AND AGE - 55 to 59 years
+HC08_VC17,2013 Estimate; SEX AND AGE - 55 to 59 years
+HC09_VC17,2017 - 2013 Statistical Significance; SEX AND AGE - 55 to 59 years
+HC01_VC18,2017 Estimate; SEX AND AGE - 60 to 64 years
+HC02_VC18,2016 Estimate; SEX AND AGE - 60 to 64 years
+HC03_VC18,2017 - 2016 Statistical Significance; SEX AND AGE - 60 to 64 years
+HC04_VC18,2015 Estimate; SEX AND AGE - 60 to 64 years
+HC05_VC18,2017 - 2015 Statistical Significance; SEX AND AGE - 60 to 64 years
+HC06_VC18,2014 Estimate; SEX AND AGE - 60 to 64 years
+HC07_VC18,2017 - 2014 Statistical Significance; SEX AND AGE - 60 to 64 years
+HC08_VC18,2013 Estimate; SEX AND AGE - 60 to 64 years
+HC09_VC18,2017 - 2013 Statistical Significance; SEX AND AGE - 60 to 64 years
+HC01_VC19,2017 Estimate; SEX AND AGE - 65 to 74 years
+HC02_VC19,2016 Estimate; SEX AND AGE - 65 to 74 years
+HC03_VC19,2017 - 2016 Statistical Significance; SEX AND AGE - 65 to 74 years
+HC04_VC19,2015 Estimate; SEX AND AGE - 65 to 74 years
+HC05_VC19,2017 - 2015 Statistical Significance; SEX AND AGE - 65 to 74 years
+HC06_VC19,2014 Estimate; SEX AND AGE - 65 to 74 years
+HC07_VC19,2017 - 2014 Statistical Significance; SEX AND AGE - 65 to 74 years
+HC08_VC19,2013 Estimate; SEX AND AGE - 65 to 74 years
+HC09_VC19,2017 - 2013 Statistical Significance; SEX AND AGE - 65 to 74 years
+HC01_VC20,2017 Estimate; SEX AND AGE - 75 to 84 years
+HC02_VC20,2016 Estimate; SEX AND AGE - 75 to 84 years
+HC03_VC20,2017 - 2016 Statistical Significance; SEX AND AGE - 75 to 84 years
+HC04_VC20,2015 Estimate; SEX AND AGE - 75 to 84 years
+HC05_VC20,2017 - 2015 Statistical Significance; SEX AND AGE - 75 to 84 years
+HC06_VC20,2014 Estimate; SEX AND AGE - 75 to 84 years
+HC07_VC20,2017 - 2014 Statistical Significance; SEX AND AGE - 75 to 84 years
+HC08_VC20,2013 Estimate; SEX AND AGE - 75 to 84 years
+HC09_VC20,2017 - 2013 Statistical Significance; SEX AND AGE - 75 to 84 years
+HC01_VC21,2017 Estimate; SEX AND AGE - 85 years and over
+HC02_VC21,2016 Estimate; SEX AND AGE - 85 years and over
+HC03_VC21,2017 - 2016 Statistical Significance; SEX AND AGE - 85 years and over
+HC04_VC21,2015 Estimate; SEX AND AGE - 85 years and over
+HC05_VC21,2017 - 2015 Statistical Significance; SEX AND AGE - 85 years and over
+HC06_VC21,2014 Estimate; SEX AND AGE - 85 years and over
+HC07_VC21,2017 - 2014 Statistical Significance; SEX AND AGE - 85 years and over
+HC08_VC21,2013 Estimate; SEX AND AGE - 85 years and over
+HC09_VC21,2017 - 2013 Statistical Significance; SEX AND AGE - 85 years and over
+HC01_VC24,2017 Estimate; SEX AND AGE - Median age (years)
+HC02_VC24,2016 Estimate; SEX AND AGE - Median age (years)
+HC03_VC24,2017 - 2016 Statistical Significance; SEX AND AGE - Median age (years)
+HC04_VC24,2015 Estimate; SEX AND AGE - Median age (years)
+HC05_VC24,2017 - 2015 Statistical Significance; SEX AND AGE - Median age (years)
+HC06_VC24,2014 Estimate; SEX AND AGE - Median age (years)
+HC07_VC24,2017 - 2014 Statistical Significance; SEX AND AGE - Median age (years)
+HC08_VC24,2013 Estimate; SEX AND AGE - Median age (years)
+HC09_VC24,2017 - 2013 Statistical Significance; SEX AND AGE - Median age (years)
+HC01_VC27,2017 Estimate; SEX AND AGE - Under 18 years
+HC02_VC27,2016 Estimate; SEX AND AGE - Under 18 years
+HC03_VC27,2017 - 2016 Statistical Significance; SEX AND AGE - Under 18 years
+HC04_VC27,2015 Estimate; SEX AND AGE - Under 18 years
+HC05_VC27,2017 - 2015 Statistical Significance; SEX AND AGE - Under 18 years
+HC06_VC27,2014 Estimate; SEX AND AGE - Under 18 years
+HC07_VC27,2017 - 2014 Statistical Significance; SEX AND AGE - Under 18 years
+HC08_VC27,2013 Estimate; SEX AND AGE - Under 18 years
+HC09_VC27,2017 - 2013 Statistical Significance; SEX AND AGE - Under 18 years
+HC01_VC28,2017 Estimate; SEX AND AGE - 16 years and over
+HC02_VC28,2016 Estimate; SEX AND AGE - 16 years and over
+HC03_VC28,2017 - 2016 Statistical Significance; SEX AND AGE - 16 years and over
+HC04_VC28,2015 Estimate; SEX AND AGE - 16 years and over
+HC05_VC28,2017 - 2015 Statistical Significance; SEX AND AGE - 16 years and over
+HC06_VC28,2014 Estimate; SEX AND AGE - 16 years and over
+HC07_VC28,2017 - 2014 Statistical Significance; SEX AND AGE - 16 years and over
+HC08_VC28,2013 Estimate; SEX AND AGE - 16 years and over
+HC09_VC28,2017 - 2013 Statistical Significance; SEX AND AGE - 16 years and over
+HC01_VC29,2017 Estimate; SEX AND AGE - 18 years and over
+HC02_VC29,2016 Estimate; SEX AND AGE - 18 years and over
+HC03_VC29,2017 - 2016 Statistical Significance; SEX AND AGE - 18 years and over
+HC04_VC29,2015 Estimate; SEX AND AGE - 18 years and over
+HC05_VC29,2017 - 2015 Statistical Significance; SEX AND AGE - 18 years and over
+HC06_VC29,2014 Estimate; SEX AND AGE - 18 years and over
+HC07_VC29,2017 - 2014 Statistical Significance; SEX AND AGE - 18 years and over
+HC08_VC29,2013 Estimate; SEX AND AGE - 18 years and over
+HC09_VC29,2017 - 2013 Statistical Significance; SEX AND AGE - 18 years and over
+HC01_VC30,2017 Estimate; SEX AND AGE - 21 years and over
+HC02_VC30,2016 Estimate; SEX AND AGE - 21 years and over
+HC03_VC30,2017 - 2016 Statistical Significance; SEX AND AGE - 21 years and over
+HC04_VC30,2015 Estimate; SEX AND AGE - 21 years and over
+HC05_VC30,2017 - 2015 Statistical Significance; SEX AND AGE - 21 years and over
+HC06_VC30,2014 Estimate; SEX AND AGE - 21 years and over
+HC07_VC30,2017 - 2014 Statistical Significance; SEX AND AGE - 21 years and over
+HC08_VC30,2013 Estimate; SEX AND AGE - 21 years and over
+HC09_VC30,2017 - 2013 Statistical Significance; SEX AND AGE - 21 years and over
+HC01_VC31,2017 Estimate; SEX AND AGE - 62 years and over
+HC02_VC31,2016 Estimate; SEX AND AGE - 62 years and over
+HC03_VC31,2017 - 2016 Statistical Significance; SEX AND AGE - 62 years and over
+HC04_VC31,2015 Estimate; SEX AND AGE - 62 years and over
+HC05_VC31,2017 - 2015 Statistical Significance; SEX AND AGE - 62 years and over
+HC06_VC31,2014 Estimate; SEX AND AGE - 62 years and over
+HC07_VC31,2017 - 2014 Statistical Significance; SEX AND AGE - 62 years and over
+HC08_VC31,2013 Estimate; SEX AND AGE - 62 years and over
+HC09_VC31,2017 - 2013 Statistical Significance; SEX AND AGE - 62 years and over
+HC01_VC32,2017 Estimate; SEX AND AGE - 65 years and over
+HC02_VC32,2016 Estimate; SEX AND AGE - 65 years and over
+HC03_VC32,2017 - 2016 Statistical Significance; SEX AND AGE - 65 years and over
+HC04_VC32,2015 Estimate; SEX AND AGE - 65 years and over
+HC05_VC32,2017 - 2015 Statistical Significance; SEX AND AGE - 65 years and over
+HC06_VC32,2014 Estimate; SEX AND AGE - 65 years and over
+HC07_VC32,2017 - 2014 Statistical Significance; SEX AND AGE - 65 years and over
+HC08_VC32,2013 Estimate; SEX AND AGE - 65 years and over
+HC09_VC32,2017 - 2013 Statistical Significance; SEX AND AGE - 65 years and over
+HC01_VC35,2017 Estimate; SEX AND AGE - 18 years and over
+HC02_VC35,2016 Estimate; SEX AND AGE - 18 years and over
+HC03_VC35,2017 - 2016 Statistical Significance; SEX AND AGE - 18 years and over
+HC04_VC35,2015 Estimate; SEX AND AGE - 18 years and over
+HC05_VC35,2017 - 2015 Statistical Significance; SEX AND AGE - 18 years and over
+HC06_VC35,2014 Estimate; SEX AND AGE - 18 years and over
+HC07_VC35,2017 - 2014 Statistical Significance; SEX AND AGE - 18 years and over
+HC08_VC35,2013 Estimate; SEX AND AGE - 18 years and over
+HC09_VC35,2017 - 2013 Statistical Significance; SEX AND AGE - 18 years and over
+HC01_VC36,2017 Estimate; SEX AND AGE - 18 years and over - Male
+HC02_VC36,2016 Estimate; SEX AND AGE - 18 years and over - Male
+HC03_VC36,2017 - 2016 Statistical Significance; SEX AND AGE - 18 years and over - Male
+HC04_VC36,2015 Estimate; SEX AND AGE - 18 years and over - Male
+HC05_VC36,2017 - 2015 Statistical Significance; SEX AND AGE - 18 years and over - Male
+HC06_VC36,2014 Estimate; SEX AND AGE - 18 years and over - Male
+HC07_VC36,2017 - 2014 Statistical Significance; SEX AND AGE - 18 years and over - Male
+HC08_VC36,2013 Estimate; SEX AND AGE - 18 years and over - Male
+HC09_VC36,2017 - 2013 Statistical Significance; SEX AND AGE - 18 years and over - Male
+HC01_VC37,2017 Estimate; SEX AND AGE - 18 years and over - Female
+HC02_VC37,2016 Estimate; SEX AND AGE - 18 years and over - Female
+HC03_VC37,2017 - 2016 Statistical Significance; SEX AND AGE - 18 years and over - Female
+HC04_VC37,2015 Estimate; SEX AND AGE - 18 years and over - Female
+HC05_VC37,2017 - 2015 Statistical Significance; SEX AND AGE - 18 years and over - Female
+HC06_VC37,2014 Estimate; SEX AND AGE - 18 years and over - Female
+HC07_VC37,2017 - 2014 Statistical Significance; SEX AND AGE - 18 years and over - Female
+HC08_VC37,2013 Estimate; SEX AND AGE - 18 years and over - Female
+HC09_VC37,2017 - 2013 Statistical Significance; SEX AND AGE - 18 years and over - Female
+HC01_VC38,2017 Estimate; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC02_VC38,2016 Estimate; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC03_VC38,2017 - 2016 Statistical Significance; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC04_VC38,2015 Estimate; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC05_VC38,2017 - 2015 Statistical Significance; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC06_VC38,2014 Estimate; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC07_VC38,2017 - 2014 Statistical Significance; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC08_VC38,2013 Estimate; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC09_VC38,2017 - 2013 Statistical Significance; SEX AND AGE - 18 years and over - Sex ratio (males per 100 females)
+HC01_VC41,2017 Estimate; SEX AND AGE - 65 years and over
+HC02_VC41,2016 Estimate; SEX AND AGE - 65 years and over
+HC03_VC41,2017 - 2016 Statistical Significance; SEX AND AGE - 65 years and over
+HC04_VC41,2015 Estimate; SEX AND AGE - 65 years and over
+HC05_VC41,2017 - 2015 Statistical Significance; SEX AND AGE - 65 years and over
+HC06_VC41,2014 Estimate; SEX AND AGE - 65 years and over
+HC07_VC41,2017 - 2014 Statistical Significance; SEX AND AGE - 65 years and over
+HC08_VC41,2013 Estimate; SEX AND AGE - 65 years and over
+HC09_VC41,2017 - 2013 Statistical Significance; SEX AND AGE - 65 years and over
+HC01_VC42,2017 Estimate; SEX AND AGE - 65 years and over - Male
+HC02_VC42,2016 Estimate; SEX AND AGE - 65 years and over - Male
+HC03_VC42,2017 - 2016 Statistical Significance; SEX AND AGE - 65 years and over - Male
+HC04_VC42,2015 Estimate; SEX AND AGE - 65 years and over - Male
+HC05_VC42,2017 - 2015 Statistical Significance; SEX AND AGE - 65 years and over - Male
+HC06_VC42,2014 Estimate; SEX AND AGE - 65 years and over - Male
+HC07_VC42,2017 - 2014 Statistical Significance; SEX AND AGE - 65 years and over - Male
+HC08_VC42,2013 Estimate; SEX AND AGE - 65 years and over - Male
+HC09_VC42,2017 - 2013 Statistical Significance; SEX AND AGE - 65 years and over - Male
+HC01_VC43,2017 Estimate; SEX AND AGE - 65 years and over - Female
+HC02_VC43,2016 Estimate; SEX AND AGE - 65 years and over - Female
+HC03_VC43,2017 - 2016 Statistical Significance; SEX AND AGE - 65 years and over - Female
+HC04_VC43,2015 Estimate; SEX AND AGE - 65 years and over - Female
+HC05_VC43,2017 - 2015 Statistical Significance; SEX AND AGE - 65 years and over - Female
+HC06_VC43,2014 Estimate; SEX AND AGE - 65 years and over - Female
+HC07_VC43,2017 - 2014 Statistical Significance; SEX AND AGE - 65 years and over - Female
+HC08_VC43,2013 Estimate; SEX AND AGE - 65 years and over - Female
+HC09_VC43,2017 - 2013 Statistical Significance; SEX AND AGE - 65 years and over - Female
+HC01_VC44,2017 Estimate; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC02_VC44,2016 Estimate; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC03_VC44,2017 - 2016 Statistical Significance; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC04_VC44,2015 Estimate; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC05_VC44,2017 - 2015 Statistical Significance; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC06_VC44,2014 Estimate; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC07_VC44,2017 - 2014 Statistical Significance; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC08_VC44,2013 Estimate; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC09_VC44,2017 - 2013 Statistical Significance; SEX AND AGE - 65 years and over - Sex ratio (males per 100 females)
+HC01_VC48,2017 Estimate; RACE - Total population
+HC02_VC48,2016 Estimate; RACE - Total population
+HC03_VC48,2017 - 2016 Statistical Significance; RACE - Total population
+HC04_VC48,2015 Estimate; RACE - Total population
+HC05_VC48,2017 - 2015 Statistical Significance; RACE - Total population
+HC06_VC48,2014 Estimate; RACE - Total population
+HC07_VC48,2017 - 2014 Statistical Significance; RACE - Total population
+HC08_VC48,2013 Estimate; RACE - Total population
+HC09_VC48,2017 - 2013 Statistical Significance; RACE - Total population
+HC01_VC49,2017 Estimate; RACE - Total population - One race
+HC02_VC49,2016 Estimate; RACE - Total population - One race
+HC03_VC49,2017 - 2016 Statistical Significance; RACE - Total population - One race
+HC04_VC49,2015 Estimate; RACE - Total population - One race
+HC05_VC49,2017 - 2015 Statistical Significance; RACE - Total population - One race
+HC06_VC49,2014 Estimate; RACE - Total population - One race
+HC07_VC49,2017 - 2014 Statistical Significance; RACE - Total population - One race
+HC08_VC49,2013 Estimate; RACE - Total population - One race
+HC09_VC49,2017 - 2013 Statistical Significance; RACE - Total population - One race
+HC01_VC50,2017 Estimate; RACE - Total population - Two or more races
+HC02_VC50,2016 Estimate; RACE - Total population - Two or more races
+HC03_VC50,2017 - 2016 Statistical Significance; RACE - Total population - Two or more races
+HC04_VC50,2015 Estimate; RACE - Total population - Two or more races
+HC05_VC50,2017 - 2015 Statistical Significance; RACE - Total population - Two or more races
+HC06_VC50,2014 Estimate; RACE - Total population - Two or more races
+HC07_VC50,2017 - 2014 Statistical Significance; RACE - Total population - Two or more races
+HC08_VC50,2013 Estimate; RACE - Total population - Two or more races
+HC09_VC50,2017 - 2013 Statistical Significance; RACE - Total population - Two or more races
+HC01_VC53,2017 Estimate; RACE - One race
+HC02_VC53,2016 Estimate; RACE - One race
+HC03_VC53,2017 - 2016 Statistical Significance; RACE - One race
+HC04_VC53,2015 Estimate; RACE - One race
+HC05_VC53,2017 - 2015 Statistical Significance; RACE - One race
+HC06_VC53,2014 Estimate; RACE - One race
+HC07_VC53,2017 - 2014 Statistical Significance; RACE - One race
+HC08_VC53,2013 Estimate; RACE - One race
+HC09_VC53,2017 - 2013 Statistical Significance; RACE - One race
+HC01_VC54,2017 Estimate; RACE - One race - White
+HC02_VC54,2016 Estimate; RACE - One race - White
+HC03_VC54,2017 - 2016 Statistical Significance; RACE - One race - White
+HC04_VC54,2015 Estimate; RACE - One race - White
+HC05_VC54,2017 - 2015 Statistical Significance; RACE - One race - White
+HC06_VC54,2014 Estimate; RACE - One race - White
+HC07_VC54,2017 - 2014 Statistical Significance; RACE - One race - White
+HC08_VC54,2013 Estimate; RACE - One race - White
+HC09_VC54,2017 - 2013 Statistical Significance; RACE - One race - White
+HC01_VC55,2017 Estimate; RACE - One race - Black or African American
+HC02_VC55,2016 Estimate; RACE - One race - Black or African American
+HC03_VC55,2017 - 2016 Statistical Significance; RACE - One race - Black or African American
+HC04_VC55,2015 Estimate; RACE - One race - Black or African American
+HC05_VC55,2017 - 2015 Statistical Significance; RACE - One race - Black or African American
+HC06_VC55,2014 Estimate; RACE - One race - Black or African American
+HC07_VC55,2017 - 2014 Statistical Significance; RACE - One race - Black or African American
+HC08_VC55,2013 Estimate; RACE - One race - Black or African American
+HC09_VC55,2017 - 2013 Statistical Significance; RACE - One race - Black or African American
+HC01_VC56,2017 Estimate; RACE - One race - American Indian and Alaska Native
+HC02_VC56,2016 Estimate; RACE - One race - American Indian and Alaska Native
+HC03_VC56,2017 - 2016 Statistical Significance; RACE - One race - American Indian and Alaska Native
+HC04_VC56,2015 Estimate; RACE - One race - American Indian and Alaska Native
+HC05_VC56,2017 - 2015 Statistical Significance; RACE - One race - American Indian and Alaska Native
+HC06_VC56,2014 Estimate; RACE - One race - American Indian and Alaska Native
+HC07_VC56,2017 - 2014 Statistical Significance; RACE - One race - American Indian and Alaska Native
+HC08_VC56,2013 Estimate; RACE - One race - American Indian and Alaska Native
+HC09_VC56,2017 - 2013 Statistical Significance; RACE - One race - American Indian and Alaska Native
+HC01_VC57,2017 Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC02_VC57,2016 Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC03_VC57,2017 - 2016 Statistical Significance; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC04_VC57,2015 Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC05_VC57,2017 - 2015 Statistical Significance; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC06_VC57,2014 Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC07_VC57,2017 - 2014 Statistical Significance; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC08_VC57,2013 Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC09_VC57,2017 - 2013 Statistical Significance; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC01_VC58,2017 Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC02_VC58,2016 Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC03_VC58,2017 - 2016 Statistical Significance; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC04_VC58,2015 Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC05_VC58,2017 - 2015 Statistical Significance; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC06_VC58,2014 Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC07_VC58,2017 - 2014 Statistical Significance; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC08_VC58,2013 Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC09_VC58,2017 - 2013 Statistical Significance; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC01_VC59,2017 Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC02_VC59,2016 Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC03_VC59,2017 - 2016 Statistical Significance; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC04_VC59,2015 Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC05_VC59,2017 - 2015 Statistical Significance; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC06_VC59,2014 Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC07_VC59,2017 - 2014 Statistical Significance; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC08_VC59,2013 Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC09_VC59,2017 - 2013 Statistical Significance; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC01_VC60,2017 Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC02_VC60,2016 Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC03_VC60,2017 - 2016 Statistical Significance; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC04_VC60,2015 Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC05_VC60,2017 - 2015 Statistical Significance; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC06_VC60,2014 Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC07_VC60,2017 - 2014 Statistical Significance; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC08_VC60,2013 Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC09_VC60,2017 - 2013 Statistical Significance; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC01_VC61,2017 Estimate; RACE - One race - Asian
+HC02_VC61,2016 Estimate; RACE - One race - Asian
+HC03_VC61,2017 - 2016 Statistical Significance; RACE - One race - Asian
+HC04_VC61,2015 Estimate; RACE - One race - Asian
+HC05_VC61,2017 - 2015 Statistical Significance; RACE - One race - Asian
+HC06_VC61,2014 Estimate; RACE - One race - Asian
+HC07_VC61,2017 - 2014 Statistical Significance; RACE - One race - Asian
+HC08_VC61,2013 Estimate; RACE - One race - Asian
+HC09_VC61,2017 - 2013 Statistical Significance; RACE - One race - Asian
+HC01_VC62,2017 Estimate; RACE - One race - Asian - Asian Indian
+HC02_VC62,2016 Estimate; RACE - One race - Asian - Asian Indian
+HC03_VC62,2017 - 2016 Statistical Significance; RACE - One race - Asian - Asian Indian
+HC04_VC62,2015 Estimate; RACE - One race - Asian - Asian Indian
+HC05_VC62,2017 - 2015 Statistical Significance; RACE - One race - Asian - Asian Indian
+HC06_VC62,2014 Estimate; RACE - One race - Asian - Asian Indian
+HC07_VC62,2017 - 2014 Statistical Significance; RACE - One race - Asian - Asian Indian
+HC08_VC62,2013 Estimate; RACE - One race - Asian - Asian Indian
+HC09_VC62,2017 - 2013 Statistical Significance; RACE - One race - Asian - Asian Indian
+HC01_VC63,2017 Estimate; RACE - One race - Asian - Chinese
+HC02_VC63,2016 Estimate; RACE - One race - Asian - Chinese
+HC03_VC63,2017 - 2016 Statistical Significance; RACE - One race - Asian - Chinese
+HC04_VC63,2015 Estimate; RACE - One race - Asian - Chinese
+HC05_VC63,2017 - 2015 Statistical Significance; RACE - One race - Asian - Chinese
+HC06_VC63,2014 Estimate; RACE - One race - Asian - Chinese
+HC07_VC63,2017 - 2014 Statistical Significance; RACE - One race - Asian - Chinese
+HC08_VC63,2013 Estimate; RACE - One race - Asian - Chinese
+HC09_VC63,2017 - 2013 Statistical Significance; RACE - One race - Asian - Chinese
+HC01_VC64,2017 Estimate; RACE - One race - Asian - Filipino
+HC02_VC64,2016 Estimate; RACE - One race - Asian - Filipino
+HC03_VC64,2017 - 2016 Statistical Significance; RACE - One race - Asian - Filipino
+HC04_VC64,2015 Estimate; RACE - One race - Asian - Filipino
+HC05_VC64,2017 - 2015 Statistical Significance; RACE - One race - Asian - Filipino
+HC06_VC64,2014 Estimate; RACE - One race - Asian - Filipino
+HC07_VC64,2017 - 2014 Statistical Significance; RACE - One race - Asian - Filipino
+HC08_VC64,2013 Estimate; RACE - One race - Asian - Filipino
+HC09_VC64,2017 - 2013 Statistical Significance; RACE - One race - Asian - Filipino
+HC01_VC65,2017 Estimate; RACE - One race - Asian - Japanese
+HC02_VC65,2016 Estimate; RACE - One race - Asian - Japanese
+HC03_VC65,2017 - 2016 Statistical Significance; RACE - One race - Asian - Japanese
+HC04_VC65,2015 Estimate; RACE - One race - Asian - Japanese
+HC05_VC65,2017 - 2015 Statistical Significance; RACE - One race - Asian - Japanese
+HC06_VC65,2014 Estimate; RACE - One race - Asian - Japanese
+HC07_VC65,2017 - 2014 Statistical Significance; RACE - One race - Asian - Japanese
+HC08_VC65,2013 Estimate; RACE - One race - Asian - Japanese
+HC09_VC65,2017 - 2013 Statistical Significance; RACE - One race - Asian - Japanese
+HC01_VC66,2017 Estimate; RACE - One race - Asian - Korean
+HC02_VC66,2016 Estimate; RACE - One race - Asian - Korean
+HC03_VC66,2017 - 2016 Statistical Significance; RACE - One race - Asian - Korean
+HC04_VC66,2015 Estimate; RACE - One race - Asian - Korean
+HC05_VC66,2017 - 2015 Statistical Significance; RACE - One race - Asian - Korean
+HC06_VC66,2014 Estimate; RACE - One race - Asian - Korean
+HC07_VC66,2017 - 2014 Statistical Significance; RACE - One race - Asian - Korean
+HC08_VC66,2013 Estimate; RACE - One race - Asian - Korean
+HC09_VC66,2017 - 2013 Statistical Significance; RACE - One race - Asian - Korean
+HC01_VC67,2017 Estimate; RACE - One race - Asian - Vietnamese
+HC02_VC67,2016 Estimate; RACE - One race - Asian - Vietnamese
+HC03_VC67,2017 - 2016 Statistical Significance; RACE - One race - Asian - Vietnamese
+HC04_VC67,2015 Estimate; RACE - One race - Asian - Vietnamese
+HC05_VC67,2017 - 2015 Statistical Significance; RACE - One race - Asian - Vietnamese
+HC06_VC67,2014 Estimate; RACE - One race - Asian - Vietnamese
+HC07_VC67,2017 - 2014 Statistical Significance; RACE - One race - Asian - Vietnamese
+HC08_VC67,2013 Estimate; RACE - One race - Asian - Vietnamese
+HC09_VC67,2017 - 2013 Statistical Significance; RACE - One race - Asian - Vietnamese
+HC01_VC68,2017 Estimate; RACE - One race - Asian - Other Asian
+HC02_VC68,2016 Estimate; RACE - One race - Asian - Other Asian
+HC03_VC68,2017 - 2016 Statistical Significance; RACE - One race - Asian - Other Asian
+HC04_VC68,2015 Estimate; RACE - One race - Asian - Other Asian
+HC05_VC68,2017 - 2015 Statistical Significance; RACE - One race - Asian - Other Asian
+HC06_VC68,2014 Estimate; RACE - One race - Asian - Other Asian
+HC07_VC68,2017 - 2014 Statistical Significance; RACE - One race - Asian - Other Asian
+HC08_VC68,2013 Estimate; RACE - One race - Asian - Other Asian
+HC09_VC68,2017 - 2013 Statistical Significance; RACE - One race - Asian - Other Asian
+HC01_VC69,2017 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC02_VC69,2016 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC03_VC69,2017 - 2016 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC04_VC69,2015 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC05_VC69,2017 - 2015 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC06_VC69,2014 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC07_VC69,2017 - 2014 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC08_VC69,2013 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC09_VC69,2017 - 2013 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC01_VC70,2017 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC02_VC70,2016 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC03_VC70,2017 - 2016 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC04_VC70,2015 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC05_VC70,2017 - 2015 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC06_VC70,2014 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC07_VC70,2017 - 2014 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC08_VC70,2013 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC09_VC70,2017 - 2013 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC01_VC71,2017 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC02_VC71,2016 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC03_VC71,2017 - 2016 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC04_VC71,2015 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC05_VC71,2017 - 2015 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC06_VC71,2014 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC07_VC71,2017 - 2014 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC08_VC71,2013 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC09_VC71,2017 - 2013 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC01_VC72,2017 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC02_VC72,2016 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC03_VC72,2017 - 2016 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC04_VC72,2015 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC05_VC72,2017 - 2015 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC06_VC72,2014 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC07_VC72,2017 - 2014 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC08_VC72,2013 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC09_VC72,2017 - 2013 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC01_VC73,2017 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC02_VC73,2016 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC03_VC73,2017 - 2016 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC04_VC73,2015 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC05_VC73,2017 - 2015 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC06_VC73,2014 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC07_VC73,2017 - 2014 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC08_VC73,2013 Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC09_VC73,2017 - 2013 Statistical Significance; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC01_VC74,2017 Estimate; RACE - One race - Some other race
+HC02_VC74,2016 Estimate; RACE - One race - Some other race
+HC03_VC74,2017 - 2016 Statistical Significance; RACE - One race - Some other race
+HC04_VC74,2015 Estimate; RACE - One race - Some other race
+HC05_VC74,2017 - 2015 Statistical Significance; RACE - One race - Some other race
+HC06_VC74,2014 Estimate; RACE - One race - Some other race
+HC07_VC74,2017 - 2014 Statistical Significance; RACE - One race - Some other race
+HC08_VC74,2013 Estimate; RACE - One race - Some other race
+HC09_VC74,2017 - 2013 Statistical Significance; RACE - One race - Some other race
+HC01_VC75,2017 Estimate; RACE - Two or more races
+HC02_VC75,2016 Estimate; RACE - Two or more races
+HC03_VC75,2017 - 2016 Statistical Significance; RACE - Two or more races
+HC04_VC75,2015 Estimate; RACE - Two or more races
+HC05_VC75,2017 - 2015 Statistical Significance; RACE - Two or more races
+HC06_VC75,2014 Estimate; RACE - Two or more races
+HC07_VC75,2017 - 2014 Statistical Significance; RACE - Two or more races
+HC08_VC75,2013 Estimate; RACE - Two or more races
+HC09_VC75,2017 - 2013 Statistical Significance; RACE - Two or more races
+HC01_VC76,2017 Estimate; RACE - Two or more races - White and Black or African American
+HC02_VC76,2016 Estimate; RACE - Two or more races - White and Black or African American
+HC03_VC76,2017 - 2016 Statistical Significance; RACE - Two or more races - White and Black or African American
+HC04_VC76,2015 Estimate; RACE - Two or more races - White and Black or African American
+HC05_VC76,2017 - 2015 Statistical Significance; RACE - Two or more races - White and Black or African American
+HC06_VC76,2014 Estimate; RACE - Two or more races - White and Black or African American
+HC07_VC76,2017 - 2014 Statistical Significance; RACE - Two or more races - White and Black or African American
+HC08_VC76,2013 Estimate; RACE - Two or more races - White and Black or African American
+HC09_VC76,2017 - 2013 Statistical Significance; RACE - Two or more races - White and Black or African American
+HC01_VC77,2017 Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC02_VC77,2016 Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC03_VC77,2017 - 2016 Statistical Significance; RACE - Two or more races - White and American Indian and Alaska Native
+HC04_VC77,2015 Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC05_VC77,2017 - 2015 Statistical Significance; RACE - Two or more races - White and American Indian and Alaska Native
+HC06_VC77,2014 Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC07_VC77,2017 - 2014 Statistical Significance; RACE - Two or more races - White and American Indian and Alaska Native
+HC08_VC77,2013 Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC09_VC77,2017 - 2013 Statistical Significance; RACE - Two or more races - White and American Indian and Alaska Native
+HC01_VC78,2017 Estimate; RACE - Two or more races - White and Asian
+HC02_VC78,2016 Estimate; RACE - Two or more races - White and Asian
+HC03_VC78,2017 - 2016 Statistical Significance; RACE - Two or more races - White and Asian
+HC04_VC78,2015 Estimate; RACE - Two or more races - White and Asian
+HC05_VC78,2017 - 2015 Statistical Significance; RACE - Two or more races - White and Asian
+HC06_VC78,2014 Estimate; RACE - Two or more races - White and Asian
+HC07_VC78,2017 - 2014 Statistical Significance; RACE - Two or more races - White and Asian
+HC08_VC78,2013 Estimate; RACE - Two or more races - White and Asian
+HC09_VC78,2017 - 2013 Statistical Significance; RACE - Two or more races - White and Asian
+HC01_VC79,2017 Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC02_VC79,2016 Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC03_VC79,2017 - 2016 Statistical Significance; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC04_VC79,2015 Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC05_VC79,2017 - 2015 Statistical Significance; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC06_VC79,2014 Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC07_VC79,2017 - 2014 Statistical Significance; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC08_VC79,2013 Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC09_VC79,2017 - 2013 Statistical Significance; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC01_VC82,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC02_VC82,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC03_VC82,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population
+HC04_VC82,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC05_VC82,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population
+HC06_VC82,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC07_VC82,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population
+HC08_VC82,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC09_VC82,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population
+HC01_VC83,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+HC02_VC83,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+HC03_VC83,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - White
+HC04_VC83,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+HC05_VC83,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - White
+HC06_VC83,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+HC07_VC83,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - White
+HC08_VC83,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - White
+HC09_VC83,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - White
+HC01_VC84,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC02_VC84,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC03_VC84,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC04_VC84,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC05_VC84,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC06_VC84,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC07_VC84,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC08_VC84,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC09_VC84,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Black or African American
+HC01_VC85,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC02_VC85,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC03_VC85,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC04_VC85,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC05_VC85,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC06_VC85,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC07_VC85,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC08_VC85,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC09_VC85,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - American Indian and Alaska Native
+HC01_VC86,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC02_VC86,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC03_VC86,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC04_VC86,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC05_VC86,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC06_VC86,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC07_VC86,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC08_VC86,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC09_VC86,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Asian
+HC01_VC87,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC02_VC87,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC03_VC87,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC04_VC87,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC05_VC87,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC06_VC87,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC07_VC87,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC08_VC87,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC09_VC87,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Native Hawaiian and Other Pacific Islander
+HC01_VC88,2017 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC02_VC88,2016 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC03_VC88,2017 - 2016 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC04_VC88,2015 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC05_VC88,2017 - 2015 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC06_VC88,2014 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC07_VC88,2017 - 2014 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC08_VC88,2013 Estimate; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC09_VC88,2017 - 2013 Statistical Significance; RACE - Race alone or in combination with one or more other races - Total population - Some other race
+HC01_VC92,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC02_VC92,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC03_VC92,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population
+HC04_VC92,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC05_VC92,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population
+HC06_VC92,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC07_VC92,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population
+HC08_VC92,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC09_VC92,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population
+HC01_VC93,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC02_VC93,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC03_VC93,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC04_VC93,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC05_VC93,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC06_VC93,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC07_VC93,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC08_VC93,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC09_VC93,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC01_VC94,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC02_VC94,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC03_VC94,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC04_VC94,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC05_VC94,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC06_VC94,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC07_VC94,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC08_VC94,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC09_VC94,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Mexican
+HC01_VC95,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC02_VC95,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC03_VC95,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC04_VC95,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC05_VC95,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC06_VC95,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC07_VC95,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC08_VC95,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC09_VC95,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Puerto Rican
+HC01_VC96,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC02_VC96,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC03_VC96,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC04_VC96,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC05_VC96,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC06_VC96,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC07_VC96,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC08_VC96,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC09_VC96,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Cuban
+HC01_VC97,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC02_VC97,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC03_VC97,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC04_VC97,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC05_VC97,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC06_VC97,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC07_VC97,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC08_VC97,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC09_VC97,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC01_VC98,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC02_VC98,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC03_VC98,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC04_VC98,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC05_VC98,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC06_VC98,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC07_VC98,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC08_VC98,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC09_VC98,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino
+HC01_VC99,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC02_VC99,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC03_VC99,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC04_VC99,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC05_VC99,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC06_VC99,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC07_VC99,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC08_VC99,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC09_VC99,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC01_VC100,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC02_VC100,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC03_VC100,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC04_VC100,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC05_VC100,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC06_VC100,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC07_VC100,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC08_VC100,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC09_VC100,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC01_VC101,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC02_VC101,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC03_VC101,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC04_VC101,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC05_VC101,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC06_VC101,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC07_VC101,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC08_VC101,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC09_VC101,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC01_VC102,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC02_VC102,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC03_VC102,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC04_VC102,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC05_VC102,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC06_VC102,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC07_VC102,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC08_VC102,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC09_VC102,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC01_VC103,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC02_VC103,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC03_VC103,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC04_VC103,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC05_VC103,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC06_VC103,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC07_VC103,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC08_VC103,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC09_VC103,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC01_VC104,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC02_VC104,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC03_VC104,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC04_VC104,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC05_VC104,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC06_VC104,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC07_VC104,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC08_VC104,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC09_VC104,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC01_VC105,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC02_VC105,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC03_VC105,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC04_VC105,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC05_VC105,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC06_VC105,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC07_VC105,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC08_VC105,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC09_VC105,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC01_VC106,2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC02_VC106,2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC03_VC106,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC04_VC106,2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC05_VC106,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC06_VC106,2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC07_VC106,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC08_VC106,2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC09_VC106,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC01_VC107,"2017 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC02_VC107,"2016 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC03_VC107,"2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC04_VC107,"2015 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC05_VC107,"2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC06_VC107,"2014 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC07_VC107,"2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC08_VC107,"2013 Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC09_VC107,"2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC01_VC109,2017 Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC02_VC109,2016 Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC03_VC109,2017 - 2016 Statistical Significance; HISPANIC OR LATINO AND RACE - Total housing units
+HC04_VC109,2015 Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC05_VC109,2017 - 2015 Statistical Significance; HISPANIC OR LATINO AND RACE - Total housing units
+HC06_VC109,2014 Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC07_VC109,2017 - 2014 Statistical Significance; HISPANIC OR LATINO AND RACE - Total housing units
+HC08_VC109,2013 Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC09_VC109,2017 - 2013 Statistical Significance; HISPANIC OR LATINO AND RACE - Total housing units
+HC01_VC113,"2017 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC02_VC113,"2016 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC03_VC113,"2017 - 2016 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC04_VC113,"2015 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC05_VC113,"2017 - 2015 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC06_VC113,"2014 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC07_VC113,"2017 - 2014 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC08_VC113,"2013 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC09_VC113,"2017 - 2013 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population"
+HC01_VC114,"2017 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC02_VC114,"2016 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC03_VC114,"2017 - 2016 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC04_VC114,"2015 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC05_VC114,"2017 - 2015 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC06_VC114,"2014 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC07_VC114,"2017 - 2014 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC08_VC114,"2013 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC09_VC114,"2017 - 2013 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male"
+HC01_VC115,"2017 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC02_VC115,"2016 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC03_VC115,"2017 - 2016 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC04_VC115,"2015 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC05_VC115,"2017 - 2015 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC06_VC115,"2014 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC07_VC115,"2017 - 2014 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC08_VC115,"2013 Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
+HC09_VC115,"2017 - 2013 Statistical Significance; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female"
