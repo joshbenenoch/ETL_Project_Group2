@@ -29,7 +29,7 @@ Our project report will include:
 
 ## PROJECT STEP-BY-STEP:
 |  **Step** | **Input** | **➔** | **Process** | **➔** | **Output** | **Description** |
-| :--- | :--- | :---: | :--- | :---: | :--- | :--- |
+| :--- | :--- | :---: | :--- | :---: | :--- | :--------------------- |
 |  1 | [Wikipedia: Teams by Metropolitan Area](https://en.wikipedia.org/wiki/List_of_American_and_Canadian_cities_by_number_of_major_professional_sports_franchises#Teams_by_metropolitan_area "Wikipedia: Teams by Metropolitan Area") | **➔** | Save to CSV | **➔** | cities.csv | **Create Master List of Cities.**<br/>1) Navigate to Wikipedia page,<br/>2) copy & paste results into CSV. Fields:<br/>    • WikipediaMetro<br/>    • City<br/>    • State |
 |  2 | [US Census:<br/>➔American FactFinder:<br/>➔➔Community Facts](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml "US Census:<br/>➔American FactFinder:<br/>➔➔Community Facts") | **➔** | Save to CSV | **➔** | City_Demographic.csv | **Create Demographic Data Set.**<br/>1) Navigate to FactFinder UI,<br/>2) search for each city,<br/>3) copy & paste results into CSV |
 |  3 | • cities.csv<br/>• City_Demographic.csv | **➔** | Run Jupyter Notebook<br/>"demo_df.ipynb" | **➔** | demo_df.csv | **Cleanse Demographic Data Set.** Run Jupyter Notebook to<br/>1) replace "None"s with nulls,<br/>2) save results as a Postgres-ready CSV |
