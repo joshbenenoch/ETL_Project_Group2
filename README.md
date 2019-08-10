@@ -5,7 +5,7 @@
 * Josh Benenoch
 
 ## OBJECTIVE:
-### Our objective is to perform ETL on various data sets to be able to analyze the difference in average attendance in sporting events for large market cities versus small market cities, how average attendance has changed over time in the cities and how demographic/economical change in those cities plays a factor.
+### Our objective is to perform ETL on various data sets to be able to analyze the difference in average attendance in sporting events for large market cities versus small market cities, how average attendance has changed over time in the cities and how demographic/economic change in those cities plays a factor.
 
 ## DATA SOURCES:
 
