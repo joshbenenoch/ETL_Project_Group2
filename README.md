@@ -29,7 +29,7 @@ Our project report will include:
 
 ## PROJECT STEP-BY-STEP:
 * [**The procedural steps are best viewed in its original Google Sheets format.**](https://docs.google.com/spreadsheets/d/1o01a_iAf8WX7i2Q-2Ek58JelQoEaH1QxlbUXwEeRIA8/edit?usp=sharing)
-* Alternately, view the <a href="https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/ETL%20Team%202%20Steps.pdf" target="_blank">PDF version within this GitHub repo</a>.
+* Alternately, view the [PDF version within this GitHub repo](https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/ETL%20Team%202%20Steps.pdf).
 * Alternately alternately, the Google Sheet has been translated into a Markdown table below, but it's tough to read:
 
 |  **Step** | **Input** | **➔** | **Process** | **➔** | **Output** | **Description** |
