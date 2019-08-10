@@ -31,6 +31,7 @@ Our project report will include:
 * <a href="https://docs.google.com/spreadsheets/d/1o01a_iAf8WX7i2Q-2Ek58JelQoEaH1QxlbUXwEeRIA8/edit?usp=sharing" target="_blank"><strong>The procedural steps are best viewed in its original Google Sheets format.</strong></a>
 * Alternately, view the <a href="https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/ETL%20Team%202%20Steps.pdf" target="_blank">PDF version within this GitHub repo</a>.
 * Alternately alternately, the Google Sheet has been translated into a Markdown table below, but it's tough to read:
+
 |  **Step** | **Input** | **➔** | **Process** | **➔** | **Output** | **Description** |
 | :--- | :--- | :---: | :--- | :---: | :--- | :------------------- |
 |  1 | [Wikipedia: Teams by Metropolitan Area](https://en.wikipedia.org/wiki/List_of_American_and_Canadian_cities_by_number_of_major_professional_sports_franchises#Teams_by_metropolitan_area "Wikipedia: Teams by Metropolitan Area") | **➔** | Save to CSV | **➔** | cities.csv | **Create Master List of Cities.**<br/>1) Navigate to Wikipedia page,<br/>2) copy & paste results into CSV. Fields:<br/>    • WikipediaMetro<br/>    • City<br/>    • State |
