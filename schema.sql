@@ -49,3 +49,55 @@ CREATE TABLE demo (
 
 SELECT * FROM demo;
 
+-- Table: public.cities
+
+-- DROP TABLE public.cities;
+
+CREATE TABLE public.cities
+(
+    _2012metro text COLLATE pg_catalog."default",
+    _2017metro text COLLATE pg_catalog."default",
+    wikipediametro text COLLATE pg_catalog."default",
+    city text COLLATE pg_catalog."default",
+    state text COLLATE pg_catalog."default"
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.cities
+    OWNER to postgres;
+
+COPY cities FROM '/resources/ETL_Project_Group2/cities.csv' CSV HEADER;
+
+SELECT * FROM cities;
+
+ALTER TABLE cities
+DROP _2012metro;
+
+SELECT d."City", d."State",
+		d."2017 Population Estimate",
+		d."Median Age", d."Number of Companies",
+		d."Education (HS or Higher)", 
+		d."Median Household Income", 
+		d."Foreign Born Population", 
+		d."White Alone", 
+		d."African American Alone", 
+		d."American Indian/Alaska Native Alone", 
+		d."Asian Alone",
+		d."Native Hawaiian Alone", 
+		d."Some Other Race Alone",
+		d."Two or More Races", d."Hispanic",
+		d."White Alone (Not Hispanic or Latino)", 
+		d."Veterans",
+		ci._2017metro, ci.wikipediametro,
+		e.industryclassification, 
+		e.description, e."2017 GDP"
+		
+FROM demo AS d
+INNER JOIN cities AS ci ON
+ci.state = d."State" and ci.city = d."City"
+INNER JOIN econ AS e ON
+e.geoname = ci._2017metro
+		
