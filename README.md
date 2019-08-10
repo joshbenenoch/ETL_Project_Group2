@@ -52,7 +52,7 @@ Our project report will include:
 |  16 | • attendance.csv<br/>• cities.csv<br/>• demo_df.csv<br/>• econ_df.csv<br/>• housedata.csv | **➔** | [Run Postgres script<br/>"schema.sql"](https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/schema.sql) | **➔** | Postgres Tables<br/>• attendance<br/>• cities<br/>• demo<br/>• econ<br/>• housing<br/>• sport_city | **Create Postgres Tables.**<br/>1) create each individual table and add column names<br/>with specific data types, <br/>2) import CSVs into tables, <br/>3) alter tables by dropping unwated columns, <br/>4) combine all tables by creating an inner join through <br/>mutual columns. |
 
 ## RESULTS:
-* Sample Screenshot #0
+* Sample Screenshot #0, showing merged demographic data
 ![Sample Screenshot from Postgres #0](https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/Postgres%20Screenshot.png "Postgres Sample Screenshot #0")
-* Sample Screenshot #1
+* Sample Screenshot #1, showing merged attendance and GDP Industry data
 ![Sample Screenshot from Postgres #1](https://github.com/joshbenenoch/ETL_Project_Group2/blob/master/Postgres%20Screenshot1.png "Postgres Sample Screenshot #1")
